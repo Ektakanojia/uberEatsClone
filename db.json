@@ -1,0 +1,512 @@
+{
+  "restaurants": [
+    {
+      "name": "The French Laundry",
+      "image": "https://media.istockphoto.com/id/2152444343/photo/poke-bowl-for-balanced-diet-with-salmon-avocado-radish-cabbage-beans-sesame-and-rice-wooden.webp?b=1&s=170667a&w=0&k=20&c=6TsO2TrWr7Usly7N6VEsfCdcJaEk6_jmhVdsZv71bso=",
+      "rating": 4.8,
+      "categories": [{ "title": "French" }, { "title": "Fine Dining" }],
+      "price": "₹200",
+      "review": 10,
+      "id": "3371",
+      "city": "Delhi",
+      "service": "delivery",
+      "menu": [
+        {
+          "title": "Kung Pao Chicken",
+          "description": "Spicy stir-fried chicken with peanuts, vegetables, and chili peppers",
+          "price": "₹350",
+          "image": "https://media.istockphoto.com/id/1329630778/photo/asian-cuisine.jpg?s=612x612&w=0&k=20&c=tbRAbvZvmw87LWS0BgET6-7shMMHpZ9DeKg3SQI7CHQ="
+        },
+        {
+          "title": "Peking Duck",
+          "description": "Roast duck served with pancakes, hoisin sauce, and scallions",
+          "price": "₹1800",
+          "image": "https://media.istockphoto.com/id/545286388/photo/chinese-food-blank-background.jpg?s=612x612&w=0&k=20&c=pqOIy07YKO5PlU5VxjscwTGRrrZ8PluKMUjSOz-II60="
+        },
+        {
+          "title": "Sweet and Sour Pork",
+          "description": "Crispy fried pork in a tangy sweet and sour sauce",
+          "price": "₹400",
+          "image": "https://media.istockphoto.com/id/1350409078/photo/sweet-and-sour-pork-typical-chinese-food.jpg?s=612x612&w=0&k=20&c=cr1kaHiBExu_-Pm-chsPZRXqTmcj-piDQaemxC8fLPA="
+        },
+        {
+          "title": "Dumplings",
+          "description": "Steamed or fried dumplings filled with meat or vegetables",
+          "price": "₹250",
+          "image": "https://media.istockphoto.com/id/1396711772/photo/momo-meal-of-the-day.jpg?s=612x612&w=0&k=20&c=LiTip5xlzBkG_IajsdKBwvCXOVsT3VfPA8v_2_ONaes="
+        },
+        {
+          "title": "Hot and Sour Soup",
+          "description": "Spicy and tangy soup with tofu, mushrooms, and bamboo shoots",
+          "price": "₹150",
+          "image": "https://media.istockphoto.com/id/1329630778/photo/asian-cuisine.jpg?s=612x612&w=0&k=20&c=tbRAbvZvmw87LWS0BgET6-7shMMHpZ9DeKg3SQI7CHQ="
+        },
+        {
+          "title": "Mapo Tofu",
+          "description": "Silken tofu in a spicy chili and bean paste sauce",
+          "price": "₹300",
+          "image": "https://media.istockphoto.com/id/177836555/photo/mapo-tofu-sichuan-style.jpg?s=612x612&w=0&k=20&c=z_JtjZBo8xxuMOgGW978jsTOL8hZoaUfgRngiYWWIz8="
+        },
+        {
+          "title": "Chow Mein",
+          "description": "Stir-fried noodles with vegetables and choice of meat",
+          "price": "₹250",
+          "image": "https://media.istockphoto.com/id/1184222080/photo/ramen-noodles-with-broccoli-bell-pepper-and-chicken-in-a-bowl-with-chopsticks.jpg?s=612x612&w=0&k=20&c=PJMvA4kOj1gfTZ5Bj_me5ZOhh3yuWjJr6_lO67rfWfU="
+        },
+        {
+          "title": "Spring Rolls",
+          "description": "Crispy rolls filled with vegetables or meat",
+          "price": "₹200",
+          "image": "https://media.istockphoto.com/id/1396682183/photo/bread-spring-roll.jpg?s=612x612&w=0&k=20&c=n_z7Iyyu0mJIkYX6crDaai1zonGUiTTz5D_s3SiTUyg="
+        },
+        {
+          "title": "Egg Fried Rice",
+          "description": "Fried rice with eggs and vegetables",
+          "price": "₹220",
+          "image": "https://media.istockphoto.com/id/1189472743/photo/kimchi-fried-rice-korean-food.jpg?s=612x612&w=0&k=20&c=aCTQf_Kz5Ol7xzx-X-z2aKKA52b--BEwC9tWSJo7sKo="
+        },
+        {
+          "title": "Sesame Chicken",
+          "description": "Crispy chicken in a sweet and savory sesame sauce",
+          "price": "₹400",
+          "image": "https://media.istockphoto.com/id/453647117/photo/fried-chicken.jpg?s=612x612&w=0&k=20&c=D7eKCHIkOgfWFePQxeR3PATiwD1zsKXcj6WXKCyGJGc="
+        }
+      ]
+    },
+    {
+      "name": "Noma",
+      "image": "https://media.istockphoto.com/id/1152493500/photo/authentic-indian-dishes-and-snacks.webp?b=1&s=170667a&w=0&k=20&c=1GDy3FGKx-jaX4LoezPCVrTO-2cgDflAhp1y_T1AZp0=",
+      "rating": 4.9,
+      "categories": [{ "title": "Nordic" }, { "title": "Modern" }],
+      "price": "₹540",
+      "review": 66,
+      "id": "ce96",
+      "city": "Bengaluru",
+      "service": "Pickup",
+      "menu": [
+        {
+          "title": "Aloo Posto",
+          "description": "Potatoes cooked in a creamy poppy seed paste",
+          "price": "₹250",
+          "image": "https://media.istockphoto.com/id/2154971731/photo/famous-bengali-food-aloo-posto-made-with-potato-and-poppy-seeds-serve-on-a-white-ceramic-bowl.jpg?s=612x612&w=0&k=20&c=zuovJznVU3435YSBsEk4Ld9VI7kMd4qEmop_-t-K1I8="
+        },
+        {
+          "title": "Shukto",
+          "description": "Mixed vegetable curry with a hint of bitterness",
+          "price": "₹300",
+          "image": "https://media.istockphoto.com/id/2130565310/photo/selective-focus-of-famous-bengali-recipe-shukto.jpg?s=612x612&w=0&k=20&c=1SAQmCu8S_YaBGxK_yyLXUl2fBvQsCsDWU1_weM2v4o="
+        },
+        {
+          "title": "Cholar Dal",
+          "description": "Bengali chana dal with coconut and spices",
+          "price": "₹200",
+          "image": "https://media.istockphoto.com/id/1465371691/photo/dal-bhari-poori-dholl-puri-cholar-dal-luchi-served-with-gur-ki-kheer-or-jaggery-rice-pudding.jpg?s=612x612&w=0&k=20&c=xF_b70a4TMIJ3p4Lq8c6ZSDr8gYqsYAUHPnkqgJgL8M="
+        },
+        {
+          "title": "Beguni",
+          "description": "Battered and fried eggplant slices",
+          "price": "₹150",
+          "image": "https://media.istockphoto.com/id/1731328471/photo/pakora-or-pakoda-a-traditional-and-popular-indian-vegetarian-snack-in-a-tray.jpg?s=612x612&w=0&k=20&c=yefc3VGGberoHHcMLWQbqlQ6_C9ya11U9Xs7wcBrLLw="
+        },
+        {
+          "title": "Labra",
+          "description": "Mixed vegetable medley cooked with Bengali spices",
+          "price": "₹250",
+          "image": "https://media.istockphoto.com/id/1820973582/photo/grill-full-of-meat-chicken-and-chorizo-hands-of-a-woman-cutting-the-meat.jpg?s=612x612&w=0&k=20&c=RM_wb_4eyWESlV9_arptyNE6afBP0akiHDQ1b5ddeKI="
+        }
+      ]
+    },
+    {
+      "name": "El Celler de Can Roca",
+      "image": "https://media.istockphoto.com/id/1295387240/photo/delicious-meal.jpg?s=612x612&w=0&k=20&c=isW6dsxtdADt3pOlxGjmKjFyEY-E76Q3TXMmzN9-wuM=",
+      "rating": 4.7,
+      "categories": [{ "title": "Spanish" }, { "title": "Contemporary" }],
+      "price": "₹28,000",
+      "review": 1785,
+      "id": "5ec9",
+      "city": "New Delhi",
+      "service": "delivery",
+      "menu": [
+        {
+          "title": "Paella",
+          "description": "Traditional Spanish rice dish with seafood or meat",
+          "price": "₹1200",
+          "image": "https://media.istockphoto.com/id/1390724837/photo/seafood-paella-mediterranean-diet-recipe-with-shrimp-squid-and-mussels-on-rustic-green-wood.jpg?s=612x612&w=0&k=20&c=unwKjEOpxxMYwf14eW8VrgxofNAiwL5OLy7yqW1hR8w="
+        },
+        {
+          "title": "Gazpacho",
+          "description": "Cold Spanish soup made from tomatoes and vegetables",
+          "price": "₹300",
+          "image": "https://media.istockphoto.com/id/1317951960/photo/gazpacho-soup-in-crock-pot-and-ingredient.jpg?s=612x612&w=0&k=20&c=kOvKHOtNmAnUcUkx8p1q1a_pDuR02pTJVcG-7psgKC8="
+        },
+        {
+          "title": "Patatas Bravas",
+          "description": "Crispy potatoes served with spicy tomato sauce",
+          "price": "₹250",
+          "image": "https://media.istockphoto.com/id/155153234/photo/potato-wedges.jpg?s=612x612&w=0&k=20&c=vk_iisZRIXBzNz_3MAsfbRKy5qciIb3E9oNgfPb_98U="
+        },
+        {
+          "title": "Tapas",
+          "description": "Assortment of small Spanish dishes, often served as appetizers",
+          "price": "₹350",
+          "image": "https://media.istockphoto.com/id/2148264052/photo/elegant-serving-charcuterie-plate-with-italian-salami-and-prosciutto-ham-with-gorgonzola.jpg?s=612x612&w=0&k=20&c=FF9jP_xGBS39bLskHQNuSee7VHT516hR9WV5qlf43Xc="
+        },
+        {
+          "title": "Modernist Cuisine",
+          "description": "Innovative and contemporary culinary creations",
+          "price": "₹1800",
+          "image": "https://media.istockphoto.com/id/923120364/photo/exquisite-dish-creative-restaurant-meal-concept-haute-couture-food.jpg?s=612x612&w=0&k=20&c=hK88znZoNcB3Ca1a5H3AcR0YpyUPWFHiAArS34jd1BY="
+        },
+        {
+          "title": "Foie Gras with Balsamic Reduction",
+          "description": "Rich foie gras served with a tangy balsamic reduction",
+          "price": "₹2000",
+          "image": "https://media.istockphoto.com/id/1471825395/photo/close-up-pan-seared-foie-gras-served-with-crispy-ginger-bread-toast-and-green-balsamic-salad.jpg?s=612x612&w=0&k=20&c=hFthAWCo74iaQ6g7tta6pN9Ow0DS3MjqFiPdadl0Qws="
+        }
+      ]
+    },
+    {
+      "name": "Osteria Francescana",
+      "image": "https://media.istockphoto.com/id/1169694902/photo/assorted-indian-non-vegetarian-food-recipe-served-in-a-group-includes-chicken-curry-mutton.jpg?s=612x612&w=0&k=20&c=J4jX3IYGdS3ODgHF0LHCySDo6bFObh0_GZzAqHgXZgU=",
+      "rating": 4.8,
+      "categories": [{ "title": "Italian" }, { "title": "Contemporary" }],
+      "price": "₹26,000",
+      "review": 1620,
+      "id": "a2a0",
+      "city": "Chennai",
+      "service": "Pickup",
+      "menu": [
+        {
+          "title": "Chole Bhature",
+          "description": "Spicy chickpeas served with deep-fried bread",
+          "price": "₹100",
+          "image": "https://media.istockphoto.com/id/1442492965/photo/chole-bhature-or-chana-masala-is-a-famous-indian-dish.jpg?s=612x612&w=0&k=20&c=nQOruvHT5kghMS86lFtLT9YK29bMao80dnyoN7E8ahc="
+        },
+        {
+          "title": "Aloo Tikki",
+          "description": "Crispy potato patties served with chutneys",
+          "price": "₹50",
+          "image": "https://media.istockphoto.com/id/1962916232/photo/aloo-tikki.jpg?s=612x612&w=0&k=20&c=k9M9H70yhWMjMkllr7XET3xibJqaJdOuTvNjkxz-wl4="
+        },
+        {
+          "title": "Pani Puri",
+          "description": "Crispy hollow puris filled with tangy tamarind water",
+          "price": "₹40",
+          "image": "https://media.istockphoto.com/id/1098307996/photo/goal-gappa-or-pani-puri.jpg?s=612x612&w=0&k=20&c=MmNFOaDiO96Gyu9_fD2VvRdNJkmqLITML3-CImrj37I="
+        },
+        {
+          "title": "Rajma Chawal",
+          "description": "Red kidney beans cooked in a spiced gravy served with rice",
+          "price": "₹80",
+          "image": "https://media.istockphoto.com/id/1310123941/photo/rajma-chawal-an-indian-food.jpg?s=612x612&w=0&k=20&c=xKpoTWgir39Hf1MFrVnurSY_Sv8izVHNLB3_Iqmserw="
+        },
+        {
+          "title": "Papdi Chaat",
+          "description": "Crispy wafers topped with potatoes, chickpeas, yogurt, and chutneys",
+          "price": "₹60",
+          "image": "https://media.istockphoto.com/id/1487810784/photo/dahi-papri-chaat-with-dahi-bhalla-served-on-a-plate-garnished-with-sev-pomegranate-seeds-and.jpg?s=612x612&w=0&k=20&c=-XH3_70P21khe8EHVUWMaYVG93KXubnr43IwNDBdqtA="
+        }
+      ]
+    },
+    {
+      "name": "Eleven Madison Park",
+      "image": "https://media.istockphoto.com/id/887216480/photo/friends-having-coffee-together.jpg?s=612x612&w=0&k=20&c=6gh-ki55MbuG6z0mGkRm--_SGrHv4juF2x0Y1HNfoeI=",
+      "rating": 4.9,
+      "categories": [{ "title": "American" }, { "title": "Fine Dining" }],
+      "price": "₹35,000",
+      "review": 2110,
+      "id": "06c5",
+      "city": "Kolkata",
+      "service": "delivery",
+      "menu": [
+        {
+          "title": "New York Strip Steak",
+          "description": "Grilled USDA prime beef steak served with garlic mashed potatoes",
+          "price": "₹2500",
+          "image": "https://media.istockphoto.com/id/543186504/photo/grilled-sliced-beef-steak.jpg?s=612x612&w=0&k=20&c=n_oxEbTf551Wf3b5jYrHnNmRaL4rNpVJJdS3UaSNIeM="
+        },
+        {
+          "title": "Lobster Thermidor",
+          "description": "Classic French dish of lobster tail with a creamy white wine sauce",
+          "price": "₹3500",
+          "image": "https://media.istockphoto.com/id/527043310/photo/lobster-thermidor.jpg?s=612x612&w=0&k=20&c=e3prBX2orwJCzsms7jBrz64i2hQCXoD0iEiDDdrpYtE="
+        },
+        {
+          "title": "Truffle Mac and Cheese",
+          "description": "Macaroni pasta with a rich truffle cheese sauce, topped with breadcrumbs",
+          "price": "₹1800",
+          "image": "https://media.istockphoto.com/id/515684707/photo/pasta-norcina.jpg?s=612x612&w=0&k=20&c=EtHDaDR13WS2vb5GGq8pzcuJaCWKh_qKp7ChAmjy7X4="
+        },
+        {
+          "title": "Southern Fried Chicken",
+          "description": "Crispy fried chicken served with buttermilk biscuits and coleslaw",
+          "price": "₹1500",
+          "image": "https://media.istockphoto.com/id/477773218/photo/fried-chicken.jpg?s=612x612&w=0&k=20&c=tve5JUFBZhpVgNDp4r9De7hZCZdeZDvVj7AGoKYRoN4="
+        },
+        {
+          "title": "Braised Short Ribs",
+          "description": "Tender braised beef short ribs with red wine reduction sauce",
+          "price": "₹2800",
+          "image": "https://media.istockphoto.com/id/1345207270/photo/red-wine-braised-boneless-short-rib-with-black-truffle-au-jus.jpg?s=612x612&w=0&k=20&c=OjTi1flxwu7YN_ETqJJYAQxUgSMPhlHC9JNVWVzgftw="
+        },
+        {
+          "title": "Key Lime Pie",
+          "description": "Refreshing tart dessert made with Key lime juice and graham cracker crust",
+          "price": "₹1200",
+          "image": "https://media.istockphoto.com/id/502350021/photo/key-lime-pie-closeup.jpg?s=612x612&w=0&k=20&c=MKHKg6pdz0tTRskWa2pS60ZhRM8FGYAFKN9waioiDak="
+        },
+        {
+          "title": "Caviar with Blinis",
+          "description": "Delicate sturgeon roe served with mini Russian pancakes and sour cream",
+          "price": "₹5000",
+          "image": "https://media.istockphoto.com/id/184949465/photo/smoked-salmon-blinis.jpg?s=612x612&w=0&k=20&c=s6B6jkqEZONFX_wsyDAulmMzyrsLqtAJS0QxiFV9gUI="
+        }
+      ]
+    },
+    {
+      "name": "Tunday Kababi",
+      "image": "https://media.istockphoto.com/id/1169694902/photo/assorted-indian-non-vegetarian-food-recipe-served-in-a-group-includes-chicken-curry-mutton.jpg?s=612x612&w=0&k=20&c=J4jX3IYGdS3ODgHF0LHCySDo6bFObh0_GZzAqHgXZgU=",
+      "rating": 4.9,
+      "categories": [{ "title": "Awadhi" }, { "title": "Kebabs" }],
+      "price": "₹300",
+      "review": 1200,
+      "id": "f87a",
+      "city": "Lucknow",
+      "service": "pickup",
+      "menu": [
+        {
+          "title": "Galouti Kebab",
+          "description": "Melt-in-your-mouth kebabs made with minced meat and aromatic spices",
+          "price": "₹350",
+          "image": "https://media.istockphoto.com/id/1081833682/photo/spicy-barbecued-chicken-tikka-boti-on-skewers-served-in-a-plate-with-green-chutney-selective.jpg?s=612x612&w=0&k=20&c=QHLBOCI3MBRhoixSJS8ahA3cQFe70wXZUMTTg9j8cFc="
+        },
+        {
+          "title": "Lucknowi Biryani",
+          "description": "Fragrant rice cooked with succulent pieces of meat, saffron, and spices",
+          "price": "₹300",
+          "image": "https://media.istockphoto.com/id/2156061746/photo/closeup-of-chicken-biryani-dish-served-on-a-wooden-table.jpg?s=612x612&w=0&k=20&c=GvFeUheKNNwBmd4VBieSJ2GGmHErgzj8wss-uQqI9YY="
+        },
+        {
+          "title": "Boti Kebab",
+          "description": "Chunks of marinated meat grilled to perfection on skewers",
+          "price": "₹280",
+          "image": "https://media.istockphoto.com/id/1443601629/photo/chicken-reshmi-tikka-boti-kabab-with-chili-sauce-dip-and-onion-served-in-dish-isolated-on.jpg?s=612x612&w=0&k=20&c=BuJ2882jVcy724SR-YxRjlq8w8LY32MlIWIDpH-1viY="
+        },
+        {
+          "title": "Roomali Roti",
+          "description": "Thin and soft bread cooked on an inverted griddle, served hot",
+          "price": "₹50",
+          "image": "https://media.istockphoto.com/id/467616507/photo/roomali-roti-is-a-paper-thin-flat-bread.jpg?s=612x612&w=0&k=20&c=3Qv8M7erGfKQYbUNam45kRGTlFUBIqg3krCimZNsLyM="
+        },
+        {
+          "title": "Sheermal",
+          "description": "Sweet flatbread made with saffron, milk, and ghee, best enjoyed with kebabs",
+          "price": "₹80",
+          "image": "https://media.istockphoto.com/id/689740084/photo/indian-roti-prata-with-condensed-milk-and-curry-sauce.jpg?s=612x612&w=0&k=20&c=NCDSexzBx2ZHYHbT7uGdx2FClO6FPtGSRWWoac5--HI="
+        },
+        {
+          "title": "Shahi Tukda",
+          "description": "Rich bread pudding soaked in sweetened milk, garnished with nuts and saffron",
+          "price": "₹150",
+          "image": "https://media.istockphoto.com/id/1315325637/photo/shahi-tukra-tukda-or-double-ka-meetha-is-a-bread-pudding-indian-sweet-of-fried-bread-slices.jpg?s=612x612&w=0&k=20&c=yRlEW3gErLfQF_u-fbKUgi3k74vpghk34rQSHLWVR3M="
+        }
+      ]
+    },
+    {
+      "name": "Idrisi",
+      "image": "https://media.istockphoto.com/id/1366952992/photo/spicy-korean-beef-noodles.jpg?s=612x612&w=0&k=20&c=MC4tl-fU0D9aXjHmI3OdQGyWgavyhZtApeJhxh-FXBA=",
+      "rating": 4.7,
+      "categories": [{ "title": "Mughlai" }, { "title": "Street Food" }],
+      "price": "₹250",
+      "review": 950,
+      "id": "d12b",
+      "city": "Lucknow",
+      "service": "delivery",
+      "menu": [
+        {
+          "title": "Galouti Kebab",
+          "description": "Melt-in-your-mouth kebabs made with minced meat and aromatic spices",
+          "price": "₹350",
+          "image": "https://media.istockphoto.com/id/1081833682/photo/spicy-barbecued-chicken-tikka-boti-on-skewers-served-in-a-plate-with-green-chutney-selective.jpg?s=612x612&w=0&k=20&c=QHLBOCI3MBRhoixSJS8ahA3cQFe70wXZUMTTg9j8cFc="
+        },
+        {
+          "title": "Lucknowi Biryani",
+          "description": "Fragrant rice cooked with succulent pieces of meat, saffron, and spices",
+          "price": "₹300",
+          "image": "https://media.istockphoto.com/id/2156061746/photo/closeup-of-chicken-biryani-dish-served-on-a-wooden-table.jpg?s=612x612&w=0&k=20&c=GvFeUheKNNwBmd4VBieSJ2GGmHErgzj8wss-uQqI9YY="
+        },
+        {
+          "title": "Boti Kebab",
+          "description": "Chunks of marinated meat grilled to perfection on skewers",
+          "price": "₹280",
+          "image": "https://media.istockphoto.com/id/1443601629/photo/chicken-reshmi-tikka-boti-kabab-with-chili-sauce-dip-and-onion-served-in-dish-isolated-on.jpg?s=612x612&w=0&k=20&c=BuJ2882jVcy724SR-YxRjlq8w8LY32MlIWIDpH-1viY="
+        },
+        {
+          "title": "Roomali Roti",
+          "description": "Thin and soft bread cooked on an inverted griddle, served hot",
+          "price": "₹50",
+          "image": "https://media.istockphoto.com/id/467616507/photo/roomali-roti-is-a-paper-thin-flat-bread.jpg?s=612x612&w=0&k=20&c=3Qv8M7erGfKQYbUNam45kRGTlFUBIqg3krCimZNsLyM="
+        },
+        {
+          "title": "Sheermal",
+          "description": "Sweet flatbread made with saffron, milk, and ghee, best enjoyed with kebabs",
+          "price": "₹80",
+          "image": "https://media.istockphoto.com/id/689740084/photo/indian-roti-prata-with-condensed-milk-and-curry-sauce.jpg?s=612x612&w=0&k=20&c=NCDSexzBx2ZHYHbT7uGdx2FClO6FPtGSRWWoac5--HI="
+        },
+        {
+          "title": "Shahi Tukda",
+          "description": "Rich bread pudding soaked in sweetened milk, garnished with nuts and saffron",
+          "price": "₹150",
+          "image": "https://media.istockphoto.com/id/1315325637/photo/shahi-tukra-tukda-or-double-ka-meetha-is-a-bread-pudding-indian-sweet-of-fried-bread-slices.jpg?s=612x612&w=0&k=20&c=yRlEW3gErLfQF_u-fbKUgi3k74vpghk34rQSHLWVR3M="
+        }
+      ]
+    },
+    {
+      "name": "Royal Sky",
+      "image": "https://media.istockphoto.com/id/1277995557/photo/waitress-at-work.jpg?s=612x612&w=0&k=20&c=ybj6jFzbXnHtyjmdTxniQb4GIdW5zhVTU4rjHG0JAtA=",
+      "rating": 4.6,
+      "categories": [{ "title": "North Indian" }, { "title": "Fine Dining" }],
+      "price": "₹600",
+      "review": 880,
+      "id": "e65f",
+      "city": "Lucknow",
+      "service": "pickup",
+      "menu": [
+        {
+          "title": "Royal Sky Special Burger",
+          "description": "Juicy beef patty with cheddar cheese, lettuce, tomato, and special sauce, served with fries",
+          "price": "₹350",
+          "image": "https://media.istockphoto.com/id/1057030316/photo/delicious-burgers-with-label-best-way-to-eat-use-your-hands-in-the-white-plate-on-the.jpg?s=612x612&w=0&k=20&c=oFCFrP0TluAtb1Op1aHWGMTkZOW98LUBncMYYyUJvQ0="
+        },
+        {
+          "title": "Seafood Platter",
+          "description": "Assorted seafood including grilled shrimp, calamari, and fish fillet, served with lemon butter sauce",
+          "price": "₹450",
+          "image": "https://media.istockphoto.com/id/2157936558/photo/sea-food-platter.jpg?s=612x612&w=0&k=20&c=tW3fr266JIxr9svBO5tX5D998jIDd0Kn9quTiav3uoI="
+        },
+        {
+          "title": "Vegetarian Lasagna",
+          "description": "Layers of pasta with spinach, ricotta cheese, and marinara sauce, baked to perfection",
+          "price": "₹300",
+          "image": "https://media.istockphoto.com/id/173605709/photo/delicious-lasagna-served-on-a-white-plate-with-garnish.jpg?s=612x612&w=0&k=20&c=vcrTHWqW9P7bBhSlLrV-nlBVBQAZDQpUNY_kmdFRspU="
+        },
+        {
+          "title": "Chicken Alfredo Pasta",
+          "description": "Fettuccine pasta with grilled chicken and creamy Alfredo sauce, garnished with parsley",
+          "price": "₹320",
+          "image": "https://media.istockphoto.com/id/1451111530/photo/creamy-alfredo-pasta-with-chicken-mushrooms-and-parmesan-cheese-healthy-italian-food.jpg?s=612x612&w=0&k=20&c=MhHgRTw5-zoej97Hq__NbSfHFVtcvmsawZqpkky4Pwo="
+        },
+        {
+          "title": "Tiramisu",
+          "description": "Classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese",
+          "price": "₹180",
+          "image": "https://media.istockphoto.com/id/1422163265/photo/tiramisu.jpg?s=612x612&w=0&k=20&c=c5uxhh5Ba8gFraWI1e09E0hW-LYbsP_DZaIqDL9ThDI="
+        },
+        {
+          "title": "Mango Cheesecake",
+          "description": "Creamy cheesecake with a mango twist, topped with fresh mango slices",
+          "price": "₹200",
+          "image": "https://media.istockphoto.com/id/1132135252/photo/no-bake-mango-cheesecake-decorated-with-blueberries-and-physalis.jpg?s=612x612&w=0&k=20&c=gmH7rPAJfcOKvNbmAI0zAQfu0lF8-0nT5Ucn1RZofeU="
+        }
+      ]
+    },
+    {
+      "name": "Dastarkhwan",
+      "image": "https://media.istockphoto.com/id/1498136326/photo/diverse-group-of-people-celebrate-festive-weekend.jpg?s=612x612&w=0&k=20&c=zIoJMstdvH9dL-fxk_Z2iu7mMGCKke6_p1W5-Og6qBk=",
+      "rating": 4.5,
+      "categories": [{ "title": "Awadhi" }, { "title": "Mughlai" }],
+      "price": "₹400",
+      "review": 780,
+      "id": "ebed",
+      "city": "Lucknow",
+      "service": "delivery",
+      "menu": [
+        {
+          "title": "Galouti Kebab",
+          "description": "Minced lamb meat marinated with spices and cooked to perfection on a skewer",
+          "price": "₹350",
+          "image": "https://media.istockphoto.com/id/1468752017/photo/assorted-grilled-pork-and-chicken-shish-kebab-in-a-plate-with-sauce-and-pita-bread-close-up.jpg?s=612x612&w=0&k=20&c=iaOdw9hABWQNZPkWFdRUmSNrmk_mVf_02QQ_x7UtS2k="
+        },
+        {
+          "title": "Chicken Biryani",
+          "description": "Flavorful basmati rice cooked with tender chicken pieces, spices, and saffron",
+          "price": "₹300",
+          "image": "https://media.istockphoto.com/id/516401834/photo/authentic-chicken-biryani-with-onion-raita.jpg?s=612x612&w=0&k=20&c=wxB5KbJAMsnph4CscPjAUSYJjymFqeJ9eGc0ATfgLyE="
+        },
+        {
+          "title": "Paneer Butter Masala",
+          "description": "Cottage cheese cubes cooked in a creamy tomato-based sauce with butter and spices",
+          "price": "₹250",
+          "image": "https://media.istockphoto.com/id/1327746667/photo/shahi-paneer-or-kadai-paneer.jpg?s=612x612&w=0&k=20&c=YWk9zP6xm_xhh9OBDGyj9I3ikLN8GWaDInCAoiKwrGU="
+        },
+        {
+          "title": "Mutton Rogan Josh",
+          "description": "Tender mutton cooked in a rich, aromatic gravy with traditional Indian spices",
+          "price": "₹400",
+          "image": "https://media.istockphoto.com/id/1125038328/photo/kashmiri-rogan-josh.jpg?s=612x612&w=0&k=20&c=X9ePo5f6r5OZLeWJuv5MvrzSqcFFgGDp3RCWzYCWZk4="
+        },
+        {
+          "title": "Naan Bread",
+          "description": "Soft and fluffy Indian bread baked in a tandoor, perfect with curries",
+          "price": "₹50",
+          "image": "https://media.istockphoto.com/id/1143530040/photo/indian-naan-bread-with-garlic-butter-on-wooden-table.jpg?s=612x612&w=0&k=20&c=71SgbJtnfiHUiud1oGxnhiZsx5nuivWwZt8DlIk8hi0="
+        },
+        {
+          "title": "Gulab Jamun",
+          "description": "Deep-fried milk dumplings soaked in sugar syrup, a classic Indian dessert",
+          "price": "₹100",
+          "image": "https://media.istockphoto.com/id/1318087224/photo/fresh-gulab-jaman-in-plate-with-motichur-laddu-in-background.jpg?s=612x612&w=0&k=20&c=mLnzhJcW_GCze4cKj14j9SdO6ecRQgajbRUCgmejyO0="
+        }
+      ]
+    },
+    {
+      "name": "Shree Rajbhog",
+      "image": "https://media.istockphoto.com/id/1079901206/photo/3d-render-of-luxury-restaurant-interior.jpg?s=612x612&w=0&k=20&c=kKj5Uw0ZpuWKX8ZX6eXuKGc1sP86fMjIbZJFbWl9-ZM=",
+      "rating": 4.6,
+      "categories": [{ "title": "Gujarati" }, { "title": "Thali" }],
+      "price": "₹350",
+      "review": 590,
+      "id": "7c7f",
+      "city": "Lucknow",
+      "service": "pickup",
+      "menu": [
+        {
+          "title": "Thali",
+          "description": "A traditional Indian meal served on a platter with a variety of dishes including rice, dal, vegetables, roti, papad, and dessert.",
+          "price": "₹350",
+          "image": "https://media.istockphoto.com/id/473565910/photo/nepali-thali-meal-set-with-chicken-curry.jpg?s=612x612&w=0&k=20&c=qJIUse9Ad6Y0cb_wO9CDKXyOJqbdIqDZv21Nh-pvCFI="
+        },
+        {
+          "title": "Pav Bhaji",
+          "description": "A spicy vegetable mash served with buttered bread rolls, garnished with onions and lemon.",
+          "price": "₹250",
+          "image": "https://media.istockphoto.com/id/1057140522/photo/indian-mumbai-food-pav-bhaji-from-vegetables-with-bread-close-up-in-a-bowl-horizontal-top-view.jpg?s=612x612&w=0&k=20&c=j4jz4CtwnmQ_ZTGgVg75gYPJdcExwbfRE9ZOEQP1tRs="
+        },
+        {
+          "title": "Kachori",
+          "description": "Deep-fried dumplings stuffed with spicy lentil mixture, served with tangy tamarind chutney.",
+          "price": "₹120",
+          "image": "https://media.istockphoto.com/id/1821735263/photo/raj-kachori-or-rajashtani-raj-kachori-chaat.jpg?s=612x612&w=0&k=20&c=HSwOdglQmk_Fx3VqfK3cj3bJN65UWoTOuhIyPF4pEiQ="
+        },
+        {
+          "title": "Raj Kachori",
+          "description": "A large crispy pastry filled with a variety of ingredients like yogurt, chutney, and spices.",
+          "price": "₹180",
+          "image": "https://media.istockphoto.com/id/1498018635/photo/sweet-kachori-is-a-deep-fried-indian-snack-with-sweet-lip-smaking-filling-inside-with-dry.jpg?s=612x612&w=0&k=20&c=I8KFmNsemEw2GHYpiB5PeQSh63jHOVT3kTZbQmszlNM="
+        },
+        {
+          "title": "Gulab Jamun",
+          "description": "Deep-fried milk dumplings soaked in sugar syrup, a classic Indian dessert.",
+          "price": "₹100",
+          "image": "https://media.istockphoto.com/id/1424509973/photo/gulab-jamun-an-indian-dessert.jpg?s=612x612&w=0&k=20&c=nNXYGIMY7z4bBq6sRBlgoHbAJN5p75GhW0hVZ8uWhAM="
+        },
+        {
+          "title": "Chole Bhature",
+          "description": "Spicy chickpea curry served with deep-fried bread, a popular dish from North India.",
+          "price": "₹280",
+          "image": "https://media.istockphoto.com/id/1292633282/photo/chole-bhature-spicy-chick-peas-curry-also-known-as-chole-or-channa-masala-is-traditional.jpg?s=612x612&w=0&k=20&c=_RchJn069ZFAnwm6alF2VWA3VDbJnm-JIid3antsIZc="
+        }
+      ]
+    }
+  ]
+}

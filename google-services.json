@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367344330764",
+    "project_id": "rnubereatsclone",
+    "storage_bucket": "rnubereatsclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367344330764:android:67dc62f5928cae6d23e629",
+        "android_client_info": {
+          "package_name": "com.monocept.rnubereatclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKRTtqr7Ii77NSyjVhhHBtsdjFRWPrwiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
